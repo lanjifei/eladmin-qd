@@ -1,9 +1,6 @@
 # eladmin-qt
 
-eladmin 前端源码
-
-#### 初始模板
-基于PanJiaChen的：[https://github.com/PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+eladmin 前端效果
 
 #### 前端参考文档
 [https://panjiachen.github.io/vue-element-admin-site/zh/guide/](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)
