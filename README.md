@@ -2,6 +2,8 @@
 
 eladmin 前端效果
 
+http://auauz.net
+
 #### 前端参考文档
 [https://panjiachen.github.io/vue-element-admin-site/zh/guide/](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)
 
